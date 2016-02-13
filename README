@@ -6,3 +6,5 @@ weixin_db_decrypt.py 微信sqlite数据库解密脚本，
 UIN的获取，登录微信的网页版，然后再console状态下，document.cookie，uin参数后面就是对应的uin值
 脚本使用：
 python  weixin_db_decrypt.py imei uin 
+代码修改于：https://github.com/notxmg/wechat-dump/blob/master/decrypt-db.py
+https://gist.github.com/fauzimd/8cb0ca85ecaa923df828
